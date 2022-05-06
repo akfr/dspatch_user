@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "93552308270",
+    "project_id": "dispatch-9fcb6",
+    "storage_bucket": "dispatch-9fcb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93552308270:android:75cb47d2d2b331bcf4afbf",
+        "android_client_info": {
+          "package_name": "com.dispatch.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93552308270-s0v1aknelm40o0m1kn8kj4onqppctsk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dispatch.app",
+            "certificate_hash": "574f19e29258dff4c43b6a0134bf93a130b42ea5"
+          }
+        },
+        {
+          "client_id": "93552308270-r6agjlpk4sjh5mc37bs1gfp8ridmj45f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEjCIP2hsTrMQU-XIadvvnEqt2njd9qFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93552308270-r6agjlpk4sjh5mc37bs1gfp8ridmj45f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
